@@ -26,7 +26,7 @@ Download an ISO matching your OS version. Mine is Ubuntu 14 which I downloaded f
 
 ## Step 🍐: Erase the Spare Drive
 
-Erasing the spare drive makes it easier to differentiate between the original and the spare drive. Attach the spare drive to the computer and boot in to Linux using the USB stick. For Ubuntu, select "Try Ubuntu" from the Welcome screen. Make sure that only the spare drive is attached to the system at this point.
+Erasing the spare drive makes it easier to differentiate between the original and the spare drive. Attach the spare drive to the computer and boot in to Linux using the USB stick. For Ubuntu, select "Try Ubuntu" from the Welcome screen. Make sure that only the spare drive is attached to the computer at this point.
 
 | Device Path | Name |
 | --- | --- |
@@ -100,7 +100,7 @@ The main `GParted` window should appear and the tool will scan the drive. In the
 
 ![Image](https://d.pr/FREE/cBiSkD+)
 
-The information dialog box will display the first sector and the last sector. These are the magic numbers we will need to recover the deleted partition. Record the first and sector numbers using a text editor like gedit.
+The information dialog box will display the first sector and the last sector. These are the magic numbers we will need to recover the deleted partition. Record the first and last sector numbers using a text editor like gedit.
 
 ![Image](https://d.pr/FREE/nDDINK+)
 
